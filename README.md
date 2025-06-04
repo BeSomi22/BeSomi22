@@ -14,6 +14,7 @@ Hi! I’m **Somia**, a passionate frontend developer focused on creating respons
 
 - **HTML5 / CSS3 / JavaScript (ES6+)**
 - **React.js**
+- **Next.js**
 - **Tailwind CSS**
 - **Git & GitHub**
 - **Vite**
