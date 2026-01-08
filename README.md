@@ -1,23 +1,18 @@
-# BeSomi22 // Full-Stack Engineer 
+# BeSomi22 // Frontend Engineer 🚀
 
-Welcome to my digital headquarters. I am a developer focused on building high-performance, visually striking, and architecturally sound web applications. This space serves as a manifest of my technical growth, experiments, and production-ready deployments.
+Welcome to my digital headquarters. I am a frontend developer focused on building high-performance, visually striking, and tactically optimized web applications. This space serves as a manifest of my technical growth, experiments, and production-ready deployments.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-#### **Frontend Systems**
-* **Frameworks:** Next.js (App Router), React.js, Vite
-* **Styling:** Tailwind CSS, CSS3 (Modules/Animations), GSAP
-* **3D & Motion:** Three.js, Framer Motion
-* **Logic:** JavaScript (ES6+), TypeScript
-
-#### **Backend & Infrastructure**
-* **Environment:** Node.js, Express.js
-* **Database:** MongoDB (Mongoose), PostgreSQL
-* **Security:** JWT (JSON Web Tokens), Bcrypt encryption, Protected Routes
-* **Cloud & Storage:** Cloudinary (Asset Management), RESTful API Design
-* **Deployment:** Vercel, Git/GitHub
+| Category | Technologies |
+| :--- | :--- |
+| **Frameworks** | Next.js (App Router), React.js, Vite |
+| **Styling** | Tailwind CSS, CSS3 (Modules/Animations), GSAP |
+| **3D & Motion** | Three.js, Framer Motion |
+| **Logic & Data** | JavaScript (ES6+), TypeScript, REST APIs, JSON |
+| **Tools & Infrastructure** | Git, GitHub, Cloudinary (Asset Management), Vercel |
 
 ---
 
@@ -26,11 +21,11 @@ Welcome to my digital headquarters. I am a developer focused on building high-pe
 #### 🛰️ Mission Control Admin Panel
 A high-fidelity administrative terminal designed for inventory management and sales analytics.
 * **Key Features:** Real-time data visualization with Recharts, dynamic hardware categorization (CPU/GPU/Peripherals), and responsive tactical UI.
-* **Back-end Logic:** Secure administrative authentication, CRUD operations for inventory, and automated sales reporting.
+* **Tech:** Next.js, Framer Motion, Tailwind, REST API Integration.
 
 #### 🛒 E-Commerce Logistics
 End-to-end shopping experience focused on user flow and performance.
-* **Key Features:** Secure checkout flows, Cloudinary image uplinks, and dynamic order tracking.
+* **Key Features:** Secure Auth, Cloudinary image uplinks, and dynamic order tracking.
 
 ---
 
@@ -39,8 +34,8 @@ End-to-end shopping experience focused on user flow and performance.
 I am always open to high-impact collaborations, technical feedback, or engineering discussions.
 
 * **Email:** [somiadev00@gmail.com](mailto:somiadev00@gmail.com)
-* **LinkedIn:** [Your Name](your-link-here)
-* **Portfolio:** [Your Site](your-link-here)
+* **Professional:** [LinkedIn](your-link-here)
+* **Social:** [X (Twitter)](your-link-here) / [Facebook](your-link-here)
 
 ---
 
