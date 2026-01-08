@@ -1,4 +1,4 @@
-# BeSomi22 // Full-Stack Engineer 🚀
+# BeSomi22 // Full-Stack Engineer 
 
 Welcome to my digital headquarters. I am a developer focused on building high-performance, visually striking, and architecturally sound web applications. This space serves as a manifest of my technical growth, experiments, and production-ready deployments.
 
@@ -31,12 +31,6 @@ A high-fidelity administrative terminal designed for inventory management and sa
 #### 🛒 E-Commerce Logistics
 End-to-end shopping experience focused on user flow and performance.
 * **Key Features:** Secure checkout flows, Cloudinary image uplinks, and dynamic order tracking.
-
----
-
-### 📊 Performance Metrics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeSomi22&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeSomi22&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
