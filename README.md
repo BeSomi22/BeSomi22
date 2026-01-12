@@ -21,7 +21,7 @@ Specializing in the orchestration of high-performance web systems and digital pr
 | Layer | Technologies |
 | :--- | :--- |
 | **Frontend** | `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Framer Motion` |
-| **Backend** | `Node.js`, `Express`, `Python`, `Go` |
+| **Backend** | `Node.js`, `Express` |
 | **Database** | `MongoDB`, `PostgreSQL`, `Redis` |
 | **DevOps** | `Docker`, `AWS`, `Vercel`, `CI/CD Pipelines` |
 
@@ -50,20 +50,4 @@ Specializing in the orchestration of high-performance web systems and digital pr
   "timezone": "GMT+1",
   "status": "ready_to_build"
 }
-<p align="right"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/somiadev00/somiadev00/main/icon.png" width="40" height="40" onerror="this.style.display='none'"/> </p>
-
------
-
-### Key Professional Touches I Included:
-
-1.  **Metric Badges:** Shows status and expertise immediately.
-2.  **The "Metric" Section:** Uses an API to pull your actual GitHub stats (the green squares and top languages) so it stays updated automatically.
-3.  **JSON Contact Block:** A clever "Developer" way to present your contact info that reinforces your identity as an engineer.
-4.  **Symmetry:** Balanced tables and clean horizontal rules to ensure it's scannable by recruiters.
-
-### How to personalize this:
-
-  * Replace `YOUR_USERNAME` in the "System Metrics" section with your actual GitHub username.
-  * Update the `[Active Protocols]` section with links to your top 3 repos.
-
-**Since you just fixed your "Green Squares" issue, would you like me to help you set up the GitHub Action that automatically updates your README with your latest blog posts or project updates?**
+```
